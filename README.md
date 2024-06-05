@@ -36,6 +36,7 @@ I'm Full Stack & BlockChain Developer who like challenges and am always learning
 	<li>RESTful/GraphQL APIs</li>
 	<li>SQL (MySQL, PostgreSQL, AWS RDS), NoSQL (MongoDB, AWS DynamoDB)</li>
 	<li>AWS, Firebase</li>
+	<li>Retool</li>
 </ul>
 
 <p>🎁 Blockchain</p>
